@@ -1,7 +1,6 @@
 package com.osreboot.ridhvl.external;
 
 
-
 public class HvlEnvironmentRegistry {
 
 	public static final String 
